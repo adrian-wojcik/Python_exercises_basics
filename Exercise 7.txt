@@ -1,0 +1,6 @@
+dog; pies
+cat; kot
+green; zielony
+red; czerwony
+look for; szukac
+look after; opiekowac sie

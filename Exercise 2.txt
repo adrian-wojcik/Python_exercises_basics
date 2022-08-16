@@ -1,0 +1,5 @@
+Word 'This' appeared: 1 times
+Word 'is' appeared: 1 times
+Word 'the' appeared: 1 times
+Word 'messge' appeared: 1 times
+Word 'Hello' appeared: 2 times
